@@ -33,7 +33,7 @@ Data Engineer with hands-on experience building **ETL/ELT pipelines, data wareho
 ## 🚀 Projects
 
 ### 🛒 E-Commerce Data Platform — ITI Graduation Project
-*Jun 2026 · Team of 5 · [GitHub]([https://github.com/Samuel2Ayman/REPO-NAME](https://github.com/samuel2ayman/ecommerce-data-platform.git))*
+*Jun 2026 · Team of 5 · [GitHub]((https://github.com/samuel2ayman/ecommerce-data-platform.git))*
 
 Designed a **Lambda Architecture** pipeline unifying real-time and batch analytics for an e-commerce business using the Olist dataset.
 - **Speed layer (built end-to-end):** `Kafka → Spark Structured Streaming → PostgreSQL → Grafana` for real-time order monitoring
