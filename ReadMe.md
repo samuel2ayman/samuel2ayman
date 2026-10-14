@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:samuel2ayman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://drive.google.com/file/d/1z1LdyJFg31VPjp5MHWK1fxuDoZuz7_pz/view?usp=drive_link"><img src="https://img.shields.io/badge/Download%20CV-222222?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"></a>
+  <a href="https://drive.google.com/file/d/1Vo6eFC5NZgqZNqIl9Jkj-_CRiUgT5hfk/view?usp=drive_link"><img src="https://img.shields.io/badge/Download%20CV-222222?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"></a>
 </p>
 
 ---
@@ -33,32 +33,32 @@ Data Engineer with hands-on experience building **ETL/ELT pipelines, data wareho
 ## 🚀 Projects
 
 ### 🛒 E-Commerce Data Platform — ITI Graduation Project
-*Jun 2026 · Team of 5 · [GitHub](https://github.com/Samuel2Ayman/REPO-NAME)*
+*Jun 2026 · Team of 5 · [GitHub]([https://github.com/Samuel2Ayman/REPO-NAME](https://github.com/samuel2ayman/ecommerce-data-platform.git))*
 
 Designed a **Lambda Architecture** pipeline unifying real-time and batch analytics for an e-commerce business using the Olist dataset.
 - **Speed layer (built end-to-end):** `Kafka → Spark Structured Streaming → PostgreSQL → Grafana` for real-time order monitoring
 - **Batch / CDC layer (contributed to design):** `SQL Server → Debezium → Kafka → Snowflake → dbt → Power BI`
 
 ### 🏭 Sales Data Warehouse — Medallion Architecture
-*Apr 2026 · [GitHub](https://github.com/Samuel2Ayman/REPO-NAME)*
+*Apr 2026 · [GitHub](https://github.com/samuel2ayman/Data-Warehouse.git)*
 - Ingested multi-source ERP & CRM CSV data into **SQL Server** using Bronze, Silver, and Gold layers
 - Transformed and cleaned data across layers, designing a **Star Schema** in the Gold layer
 - Analyzed data with SQL to generate business insights
 
 ### 📚 Gravity Bookstore Data Pipeline — End-to-End
-*Apr 2026 · [GitHub](https://github.com/Samuel2Ayman/REPO-NAME)*
+*Apr 2026 · [GitHub](https://github.com/samuel2ayman/Gravity-Bookstore.git)*
 - Built an end-to-end pipeline from an operational database to a data warehouse using a **Galaxy schema** (2 fact tables, 8 dimensions)
 - Developed ETL with **SSIS** and created an **SSAS cube** for analysis
 - Delivered insights through interactive **Power BI** dashboards on the Microsoft stack
 
 ### 👥 HR Analytics Project
-*May 2026 · [GitHub](https://github.com/Samuel2Ayman/REPO-NAME)*
+*May 2026 · [GitHub](https://github.com/samuel2ayman/HR-Analytics-Dashboard.git)*
 - Cleaned and transformed five HR datasets using **Power Query** (null imputation, column pruning, categorical decoding)
 - Designed a **Star Schema** with a fact employee table linked to 5 dimension tables
 - Built Power BI dashboards covering attrition, salary, satisfaction, attendance, and demographics
 
 ### 🕶️ Smart Glasses for the Blind — Engineering Graduation Project (Grade: A+)
-*Oct 2024 – Jul 2025 · [GitHub](https://github.com/Samuel2Ayman/REPO-NAME)*
+*Oct 2024 – Jul 2025 · [GitHub](https://github.com/samuel2ayman/Graduation-project-OPTI.git)*
 - Collected, annotated, and processed datasets using **Python, PyTorch, OpenCV, and CVAT**; enhanced COCO with targeted preprocessing
 - Improved model performance through data augmentation and optimization: **+27% accuracy in currency recognition** and **+36% in object detection**
 
@@ -119,12 +119,7 @@ Faculty of Engineering, Alexandria University · Oct 2020 – Aug 2025
 - **Red Hat System Administration I**
 - **Associate SQL Data Engineer**
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samuel2Ayman&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel2Ayman&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
