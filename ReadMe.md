@@ -115,7 +115,7 @@ Faculty of Engineering, Alexandria University · Oct 2020 – Aug 2025
 
 ## 🏅 Certifications
 
-- **Fabric Data Engineer Associate (DP-700)** — Microsoft
+- **Fabric Data Engineer Associate (DP-700)**
 - **Red Hat System Administration I**
 - **Associate SQL Data Engineer**
 
