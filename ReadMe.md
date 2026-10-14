@@ -120,11 +120,6 @@ Faculty of Engineering, Alexandria University · Oct 2020 – Aug 2025
 - **Associate SQL Data Engineer**
 
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel2Ayman&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
-</p>
-
----
-
 <p align="center">
   📫 <a href="mailto:samuel2ayman@gmail.com">samuel2ayman@gmail.com</a>
 </p>
